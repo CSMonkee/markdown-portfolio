@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+When working as a **Customer Success Engineer** for **Sonatype**, I wrote [automation](https://github.com/sonatype-nexus-community/iq-config-as-code) to expedite onboarding and drive adoption in accordance with *DevOps* best practice.
