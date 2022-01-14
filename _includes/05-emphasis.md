@@ -1,0 +1,1 @@
+When working as a **Customer Success Engineer** for **Sonatype**, I wrote [automation](https://github.com/sonatype-nexus-community/iq-config-as-code) to expedite onboarding and drive adoption in accordance with *DevOps* best practice.
